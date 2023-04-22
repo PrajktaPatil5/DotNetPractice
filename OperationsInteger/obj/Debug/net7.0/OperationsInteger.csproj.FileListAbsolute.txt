@@ -1,0 +1,15 @@
+/home/prajkta.patil/Desktop/DotNet/OperationsInteger/obj/Debug/net7.0/OperationsInteger.csproj.AssemblyReference.cache
+/home/prajkta.patil/Desktop/DotNet/OperationsInteger/obj/Debug/net7.0/OperationsInteger.GeneratedMSBuildEditorConfig.editorconfig
+/home/prajkta.patil/Desktop/DotNet/OperationsInteger/obj/Debug/net7.0/OperationsInteger.AssemblyInfoInputs.cache
+/home/prajkta.patil/Desktop/DotNet/OperationsInteger/obj/Debug/net7.0/OperationsInteger.AssemblyInfo.cs
+/home/prajkta.patil/Desktop/DotNet/OperationsInteger/obj/Debug/net7.0/OperationsInteger.csproj.CoreCompileInputs.cache
+/home/prajkta.patil/Desktop/DotNet/OperationsInteger/bin/Debug/net7.0/OperationsInteger
+/home/prajkta.patil/Desktop/DotNet/OperationsInteger/bin/Debug/net7.0/OperationsInteger.deps.json
+/home/prajkta.patil/Desktop/DotNet/OperationsInteger/bin/Debug/net7.0/OperationsInteger.runtimeconfig.json
+/home/prajkta.patil/Desktop/DotNet/OperationsInteger/bin/Debug/net7.0/OperationsInteger.dll
+/home/prajkta.patil/Desktop/DotNet/OperationsInteger/bin/Debug/net7.0/OperationsInteger.pdb
+/home/prajkta.patil/Desktop/DotNet/OperationsInteger/obj/Debug/net7.0/OperationsInteger.dll
+/home/prajkta.patil/Desktop/DotNet/OperationsInteger/obj/Debug/net7.0/refint/OperationsInteger.dll
+/home/prajkta.patil/Desktop/DotNet/OperationsInteger/obj/Debug/net7.0/OperationsInteger.pdb
+/home/prajkta.patil/Desktop/DotNet/OperationsInteger/obj/Debug/net7.0/OperationsInteger.genruntimeconfig.cache
+/home/prajkta.patil/Desktop/DotNet/OperationsInteger/obj/Debug/net7.0/ref/OperationsInteger.dll
